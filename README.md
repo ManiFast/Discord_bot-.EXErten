@@ -1,7 +1,6 @@
 # .EXErten
-Own bot for help on the server
+Own bot for help on the server with JS (dont work)
 
-![](https://github.com/Stas-inside/Discord_bot-.EXErten/blob/main/Logo%60s/Capture.PNG)
 
 ![](https://github.com/Stas-inside/Discord_bot-.EXErten/blob/main/Logo%60s/image2.png)
 
